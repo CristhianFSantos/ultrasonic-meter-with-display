@@ -1,4 +1,4 @@
-<h1 align="center"> Ultrasonic meter with display </h1>
+<h1 align="center"> Medidor ultrassônico com visor </h1>
 <p align="center" style="font-size: 18px;">Medidor ultrassônico com visor LCD 16x2.
 </p>
 <br/>
